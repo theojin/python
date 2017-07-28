@@ -9,3 +9,8 @@ setup(
     url = 'http://storycompiler.com',
     description = 'Test',
     )
+
+#python3 setup.py sdist #make a package for distribution
+#python3 setup.py install
+#python3 setup.py register #login in pypi
+#python3 setup.py sdist upload
